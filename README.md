@@ -15,19 +15,19 @@ Main folder contains all the jupyter notebook files (`*.ipynb`) and the general 
   
  ### Steps:
  
-  1.Download data and references from Gisaid. Remove duplicates (in case egg&cell samples, normally we select only egg).
+  1. Download data and references from Gisaid. Remove duplicates (in case egg&cell samples, normally we select only egg).
   
-  2.Receive metadata from WHO. Prepare the table with the same structure (i.e. headers) than one of the csv's used for the last trees (e.g. h1_2020a/H1fortreelastHI_ready.csv). First column must contain the same IDs than the fasta.
+  2. Receive metadata from WHO. Prepare the table with the same structure (i.e. headers) than one of the csv's used for the last trees (e.g. h1_2020a/H1fortreelastHI_ready.csv). First column must contain the same IDs than the fasta.
   
-  3.Run `1.checkIDrec.py`. It checks if all the records ID from the fasta are included in the metadata.
+  3. Run `1.checkIDrec.py`. It checks if all the records ID from the fasta are included in the metadata.
   
-  4.Align fasta file (`mafft input_fasta > output_fasta`) and extract only the region of interest (e.g H1N1p GACACATTATG....TGTAGAATATGT).
+  4. Align fasta file (`mafft input_fasta > output_fasta`) and extract only the region of interest (e.g H1N1p GACACATTATG....TGTAGAATATGT).
   
-  5.Run treesub. Generate subs.csv: `python 2.build_subs.py subsitutions.tsv subs.csv`.
+  5. Run treesub. Generate subs.csv: `python 2.build_subs.py subsitutions.tsv subs.csv`.
   
-  6.Run jupyter: `notebook jupyter` and format tree (fix size and positions is required).
+  6. Run jupyter: `notebook jupyter` and format tree (fix size and positions is required).
   
-  7.Final polishing using Illustrator.
+  7. Final polishing using Illustrator.
   
   Optionally, RAxML and treesub can be run to optimize the likelihood of time-scaled phylogenies.
   
