@@ -1,0 +1,253 @@
+desig,Reference|Reference,age.category|Age Category,vaccination|Vaccination Status,Month|Month,Country|Country,Severity,insuff|Isolation result,STHAUST34.FD|HI cell,STHAUST34.FD|HI egg,STHAUS34.FD|FRA cell,STHAUS34.FD|FRA egg
+A/AYUTTHAYA/458/2019,0,NA,Unvaccinated,NOV,Thailand,,Positive,<4,>4,NA,NA
+A/BANGKOK/447/2019,0,NA,Unvaccinated,NOV,Thailand,,Positive,<4,>4,NA,NA
+A/BANGKOK/454/2019,0,NA,Unvaccinated,NOV,Thailand,Hospitalised,Positive,<4,>4,NA,NA
+A/BRISBANE/1112/2019,0,<5 years,Vaccinated,SEP,Australia,,Positive,4,>4,NA,NA
+A/BRISBANE/1113/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,4,>4,NA,NA
+A/BRISBANE/1118/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/BRISBANE/1122/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,4,>4,NA,NA
+A/BRISBANE/1125/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,4,>4,NA,NA
+A/BRISBANE/1128/2019,0,5-19 years,Vaccinated,SEP,Australia,,Positive,>4,>4,NA,NA
+A/BRISBANE/1129/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/BRISBANE/1130/2019,0,5-19 years,Vaccinated,SEP,Australia,,Insufficient,NA,NA,NA,NA
+A/BRISBANE/1131/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/BRISBANE/1133/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,>4,>4,NA,NA
+A/BRISBANE/1134/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/BRISBANE/1137/2019,0,5-19 years,Vaccinated,SEP,Australia,,Insufficient,NA,NA,NA,NA
+A/BRISBANE/134/2019,0,5-19 years,NA,SEP,Australia,Hospitalised,Positive,>4,>4,NA,NA
+A/BRISBANE/139/2019,0,<5 years,NA,OCT,Australia,Hospitalised,Positive,NA,NA,NA,NA
+A/BRISBANE/141/2019,0,65+ years,NA,OCT,Australia,Hospitalised,Positive,>4,>4,4,>4
+A/BRISBANE/145/2019,0,5-19 years,NA,OCT,Australia,Hospitalised,Positive,>4,>4,NA,NA
+A/BRISBANE/148/2019e,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,<4,>4,4,>4
+A/CAMBODIA/D1216367/2019,0,NA,NA,NOV,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/D1216379/2019,0,NA,NA,NOV,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/E0109365/2019,0,NA,NA,DEC,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/E0109379/2019,0,NA,NA,DEC,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/E0109383/2019,0,NA,NA,DEC,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/FSS41534/2019,0,NA,NA,DEC,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/FSS42257/2019,0,NA,NA,OCT,Cambodia,,Positive,<4,>4,NA,NA
+A/CAMBODIA/FSS42280/2019,0,NA,NA,OCT,Cambodia,,Positive,<4,>4,NA,NA
+A/CANBERRA/15A/2019,0,20-64 years,NA,DEC,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/20A/2019,0,<5 years,NA,DEC,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/2A/2019,0,65+ years,NA,DEC,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/352/2019,0,65+ years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/360/2019,0,65+ years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,<4,NA,NA
+A/CANBERRA/385/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/398/2019,0,65+ years,Vaccinated,OCT,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/407/2019,0,20-64 years,Unvaccinated,OCT,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/410/2019,0,20-64 years,Unvaccinated,OCT,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/412/2019,0,65+ years,NA,NOV,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/414/2019,0,65+ years,NA,NOV,Australia,Hospitalised,Positive,4,>4,NA,NA
+A/CANBERRA/44/2020,0,20-64 years,NA,JAN,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CANBERRA/4A/2019,0,65+ years,NA,DEC,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/CHANTHABURI/414/2019,0,NA,Unvaccinated,SEP,Thailand,,Positive,<4,>4,NA,NA
+A/CHIANGRAI/449/2019,0,NA,Unvaccinated,NOV,Thailand,,Positive,<4,>4,NA,NA
+A/CHRISTCHURCH/515/2019e,1,NA,NA,,New Zealand,,Insufficient,<4,>4,NA,NA
+A/CHRISTCHURCH/516/2019e,1,65+ years,NA,,New Zealand,Hospitalised,Positive,NA,NA,NA,NA
+A/DARWIN/701/2019,0,20-64 years,NA,SEP,Australia,,Positive,<4,4,NA,NA
+A/DARWIN/712/2019,0,5-19 years,NA,SEP,Australia,,Positive,>4,>4,NA,NA
+A/DARWIN/714/2019,0,5-19 years,NA,OCT,Australia,,Positive,4,>4,NA,NA
+A/DARWIN/716/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/DARWIN/721/2019,0,20-64 years,NA,SEP,Australia,,Positive,>4,>4,NA,NA
+A/DARWIN/724/2019,0,<5 years,Unvaccinated,OCT,Australia,Hospitalised,Positive,>4,>4,NA,NA
+A/DARWIN/725/2019,0,<5 years,NA,OCT,Australia,,Positive,>4,>4,NA,NA
+A/DARWIN/726/2019e,1,65+ years,NA,OCT,Australia,,Positive,4,>4,NA,NA
+A/DARWIN/727/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/DARWIN/730/2019,0,65+ years,NA,OCT,Australia,,Positive,4,>4,>4,>4
+A/DARWIN/732/2019,0,20-64 years,NA,OCT,Australia,,Positive,>4,>4,4,>4
+A/DARWIN/845/2019,0,65+ years,NA,DEC,Australia,,Positive,NA,NA,NA,NA
+A/DARWIN/856/2019,0,20-64 years,NA,DEC,Australia,,Positive,>4,>4,NA,NA
+A/FIJI/71/2017,1,20-64 years,NA,,Fiji,NA,Positive,NA,NA,NA,NA
+A/HONGKONG/4801/2014e,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/KANSAS/14/2017e,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/MALAYSIA/RP2256/2019,0,NA,NA,OCT,Malaysia,,Positive,<4,>4,<4,>4
+A/MICHIGAN/15/2014,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/NEWCASTLE/82/2018e,1,20-64 years,NA,,Australia,NA,Positive,NA,NA,NA,NA
+A/NONTHABURI/424/2019,0,NA,Unvaccinated,OCT,Thailand,,Positive,<4,>4,NA,NA
+A/PHILIPPINES/13/2017,1,5-19 years,NA,,Philippines,NA,Insufficient,NA,NA,NA,NA
+A/PHILIPPINES/19/2019,0,NA,Unvaccinated,SEP,Philippines,,Positive,<4,>4,NA,NA
+A/PHILIPPINES/23/2019,0,NA,Unvaccinated,SEP,Philippines,,Positive,4,>4,NA,NA
+A/PHILIPPINES/29/2019,0,NA,Unvaccinated,OCT,Philippines,,Positive,4,>4,NA,NA
+A/PHILIPPINES/30/2019,0,NA,Unvaccinated,OCT,Philippines,,Positive,>4,>4,NA,NA
+A/PHILIPPINES/32/2019,0,NA,Unvaccinated,OCT,Philippines,,Positive,<4,>4,NA,NA
+A/PHILIPPINES/35/2019,0,NA,Unvaccinated,OCT,Philippines,,Positive,4,>4,NA,NA
+A/PHILIPPINES/38/2019,0,NA,Unvaccinated,OCT,Philippines,,Positive,4,>4,NA,NA
+A/PHILIPPINES/40/2019,0,NA,Unvaccinated,OCT,Philippines,,Positive,>4,>4,NA,NA
+A/PHILIPPINES/42/2019,0,NA,Unvaccinated,NOV,Philippines,,Positive,4,>4,NA,NA
+A/PHILIPPINES/46/2019,0,<5 years,Unvaccinated,SEP,Philippines,,Positive,4,>4,4,>4
+A/PHILIPPINES/48/2019,0,<5 years,Unvaccinated,OCT,Philippines,,Positive,4,>4,4,>4
+A/PHILIPPINES/50/2019,0,<5 years,Unvaccinated,OCT,Philippines,,Positive,4,>4,NA,NA
+A/PHILIPPINES/51/2019,0,<5 years,Unvaccinated,NOV,Philippines,,Positive,4,>4,NA,NA
+A/QATAR/16VI190049409/2019,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/EN0858/2019,0,<5 years,NA,NOV,Singapore,,Positive,<4,>4,NA,NA
+A/SINGAPORE/EN0878/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/EN0894/2019,0,<5 years,NA,NOV,Singapore,,Positive,>4,>4,NA,NA
+A/SINGAPORE/EN0900/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/GP1958/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/GP2015/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/GP2041/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/GP2153/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/GP2190/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/GP2299/2019,0,20-64 years,NA,DEC,Singapore,,Positive,<4,>4,NA,NA
+A/SINGAPORE/KK2356/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/KK2370/2019,0,5-19 years,NA,OCT,Singapore,Hospitalised,Positive,<4,>4,NA,NA
+A/SINGAPORE/KK2454/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/KK2496/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/KK2585/2019,0,5-19 years,NA,NOV,Singapore,Hospitalised,Positive,4,>4,NA,NA
+A/SINGAPORE/KK2772/2019,0,5-19 years,NA,NOV,Singapore,Hospitalised,Positive,4,>4,NA,NA
+A/SINGAPORE/SGH0511/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0527/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0540/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0610/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0617/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0618/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0623/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0667/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/SGH0668/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0807/2019,0,NA,NA,OCT,Singapore,Hospitalised,Positive,<4,>4,NA,NA
+A/SINGAPORE/TT0857/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0869/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0882/2019,0,NA,NA,NOV,Singapore,Hospitalised,Positive,>4,>4,NA,NA
+A/SINGAPORE/TT0887/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0889/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0934/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0942/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT0952/2019,0,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SINGAPORE/TT1374/2016e,1,NA,NA,,Singapore,NA,Insufficient,NA,NA,NA,NA
+A/SOUTHAUSTRALIA/2/2019e,1,65+ years,NA,,Australia,,Positive,4,>4,>4,>4
+A/SOUTHAUSTRALIA/34/2019e,1,20-64 years,NA,,Australia,,Positive,NA,NA,NA,NA
+A/SOUTHAUSTRALIA/439/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/SOUTHAUSTRALIA/444/2019,0,65+ years,NA,OCT,Australia,,Positive,>4,>4,NA,NA
+A/SOUTHAUSTRALIA/445/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/SOUTHAUSTRALIA/446/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/SOUTHAUSTRALIA/447/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/448/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/453/2019,0,5-19 years,NA,OCT,Australia,,Positive,<4,>4,4,>4
+A/SOUTHAUSTRALIA/454/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/SOUTHAUSTRALIA/457/2019,0,<5 years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/SOUTHAUSTRALIA/458/2019,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,>4,>4,>4,>4
+A/SOUTHAUSTRALIA/462/2019,0,65+ years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/463/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/464/2019,0,65+ years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/465/2019,0,<5 years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/467/2019,0,65+ years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/468/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,<4,4
+A/SOUTHAUSTRALIA/469/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/470/2019,0,<5 years,NA,NOV,Australia,,Positive,4,>4,>4,>4
+A/SOUTHAUSTRALIA/472/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/SOUTHAUSTRALIA/474/2019,0,65+ years,NA,NOV,Australia,,Positive,4,>4,<4,>4
+A/SWITZERLAND/8060/2017e,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SWITZERLAND/9715293/2013e,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/SYDNEY/1224/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/SYDNEY/1228/2019,0,<5 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/SYDNEY/1234/2019,0,65+ years,Vaccinated,OCT,Australia,,Positive,<4,>4,<4,>4
+A/SYDNEY/22/2018e,1,65+ years,NA,,Australia,NA,Positive,NA,NA,NA,NA
+A/SYDNEY/463/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/464/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/465/2019,0,20-64 years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/466/2019,0,65+ years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,4,NA,NA
+A/SYDNEY/468/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,4,NA,NA
+A/SYDNEY/469/2019,0,65+ years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/470/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/471/2019,0,65+ years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/472/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/473/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/474/2019,0,20-64 years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/SYDNEY/475/2019,0,20-64 years,Unvaccinated,SEP,Australia,Hospitalised,Positive,4,>4,NA,NA
+A/SYDNEY/478/2019,0,65+ years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,4,NA,NA
+A/TASMANIA/103/2019,0,65+ years,NA,SEP,Australia,Hospitalised,Positive,<4,4,NA,NA
+A/TASMANIA/1036/2019,0,5-19 years,Unvaccinated,SEP,Australia,,Positive,<4,4,NA,NA
+A/TASMANIA/1037/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,NA,NA,<4,>4
+A/TASMANIA/1038/2019,0,20-64 years,Vaccinated,OCT,Australia,,Positive,<4,>4,<4,4
+A/TASMANIA/104/2019,0,65+ years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/TASMANIA/614/2019,0,20-64 years,NA,SEP,Australia,,Positive,<4,>4,<4,>4
+A/TASMANIA/615/2019,0,65+ years,NA,SEP,Australia,,Positive,<4,>4,NA,NA
+A/TASMANIA/637/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,NA,NA
+A/TASMANIA/650/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,NA,NA
+A/TEXAS/50/2012X223Ae,1,NA,NA,,NA,NA,NA,NA,NA,NA,NA
+A/TOWNSVILLE/55/2019,0,20-64 years,NA,SEP,Australia,Hospitalised,Positive,>4,>4,NA,NA
+A/TOWNSVILLE/58/2019,0,65+ years,NA,OCT,Australia,Hospitalised,Positive,>4,>4,>4,>4
+A/TOWNSVILLE/59/2019,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,>4,>4,>4,>4
+A/TOWNSVILLE/60/2019,0,<5 years,NA,OCT,Australia,Hospitalised,Positive,>4,>4,4,>4
+A/TRANG/380/2019,0,NA,Unvaccinated,SEP,Thailand,,Positive,<4,>4,NA,NA
+A/VICTORIA/223/2019,1,65+ years,NA,,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/245/2019,0,20-64 years,NA,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2479/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2482/2019,0,20-64 years,NA,SEP,Australia,,Positive,>4,>4,NA,NA
+A/VICTORIA/2488/2019,0,<5 years,NA,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2490/2019,0,20-64 years,NA,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2492/2019,0,65+ years,NA,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2493/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2499/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2502/2019,0,65+ years,NA,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2503/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2506/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2507/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,>4,>4,NA,NA
+A/VICTORIA/2508/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2509/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/251/2019,0,65+ years,Unvaccinated,SEP,Australia,,Positive,4,>4,NA,NA
+A/VICTORIA/2510/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2516/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,>4,>4,NA,NA
+A/VICTORIA/2517/2019,0,20-64 years,Vaccinated,SEP,Australia,,Positive,>4,>4,NA,NA
+A/VICTORIA/2518/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2519/2019,0,<5 years,NA,SEP,Australia,,Positive,>4,>4,NA,NA
+A/VICTORIA/252/2019,0,5-19 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2527/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2529/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/253/2019,0,65+ years,Unvaccinated,SEP,Australia,,Positive,<4,4,NA,NA
+A/VICTORIA/2531/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2532/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2534/2019,0,20-64 years,NA,SEP,Australia,,Positive,NA,NA,NA,NA
+A/VICTORIA/2535/2019,0,65+ years,Vaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2539/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,4
+A/VICTORIA/254/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2540/2019,0,65+ years,Vaccinated,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2542/2019,0,65+ years,Unvaccinated,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2544/2019,0,20-64 years,Vaccinated,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2547/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2548/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2549/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2550/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2551/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2552/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2554/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2556/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2557/2019,0,20-64 years,NA,OCT,Australia,,Positive,4,>4,NA,NA
+A/VICTORIA/2558/2019,0,20-64 years,Vaccinated,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2559/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/256/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,4,NA,NA
+A/VICTORIA/2562/2019,0,65+ years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2563/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2565/2019,0,20-64 years,NA,OCT,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2566/2019,0,20-64 years,NA,NOV,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/257/2019,0,65+ years,Unvaccinated,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2571/2019,0,20-64 years,NA,NOV,Australia,Hospitalised,Positive,4,>4,NA,NA
+A/VICTORIA/2573/2019,0,20-64 years,NA,NOV,Australia,,Positive,4,>4,<4,>4
+A/VICTORIA/2574/2019,0,5-19 years,NA,NOV,Australia,Hospitalised,Positive,<4,>4,<4,>4
+A/VICTORIA/2575/2019,0,65+ years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2576/2019,0,20-64 years,NA,NOV,Australia,Hospitalised,Positive,<4,>4,<4,>4
+A/VICTORIA/2579/2019,0,20-64 years,NA,NOV,Australia,,Positive,4,>4,<4,>4
+A/VICTORIA/258/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2580/2019,0,65+ years,NA,NOV,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/259/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,<4,>4
+A/VICTORIA/2590/2019,0,65+ years,NA,DEC,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/2591/2019,0,20-64 years,NA,DEC,Australia,Hospitalised,Positive,>4,>4,NA,NA
+A/VICTORIA/2595/2019,0,65+ years,NA,DEC,Australia,,Positive,4,>4,NA,NA
+A/VICTORIA/2597/2019,0,65+ years,NA,DEC,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/260/2019,0,20-64 years,Unvaccinated,SEP,Australia,,Positive,<4,>4,NA,NA
+A/VICTORIA/264/2019,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/VICTORIA/268/2019,0,5-19 years,Unvaccinated,OCT,Australia,,Positive,NA,NA,NA,NA
+A/VICTORIA/2833/2019,0,<5 years,Vaccinated,SEP,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/VICTORIA/2844/2019,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/VICTORIA/2845/2019,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,<4,>4,<4,>4
+A/VICTORIA/2854/2019,0,5-19 years,NA,OCT,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/VICTORIA/2855/2019,0,20-64 years,NA,OCT,Australia,Hospitalised,Positive,<4,>4,<4,>4
+A/VICTORIA/2856/2019,0,20-64 years,NA,NOV,Australia,Hospitalised,Positive,<4,>4,<4,>4
+A/VICTORIA/2859/2019,0,5-19 years,NA,NOV,Australia,Hospitalised,Insufficient,NA,NA,<4,>4
+A/VICTORIA/2867/2019,0,20-64 years,NA,DEC,Australia,Hospitalised,Positive,NA,NA,NA,NA
+A/VICTORIA/2868/2019,0,5-19 years,NA,DEC,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/VICTORIA/2873/2019,0,<5 years,NA,DEC,Australia,Hospitalised,Positive,>4,>4,NA,NA
+A/VICTORIA/5/2020,0,65+ years,NA,JAN,Australia,Deceased,Negative,NA,NA,NA,NA
+A/VICTORIA/653/2017,1,20-64 years,NA,,Australia,NA,Insufficient,NA,NA,NA,NA
+A/VICTORIA/7/2020,0,<5 years,NA,JAN,Australia,Hospitalised,Positive,<4,>4,NA,NA
+A/WELLINGTON/53/2019,0,5-19 years,NA,SEP,New Zealand,,Positive,>4,>4,NA,NA

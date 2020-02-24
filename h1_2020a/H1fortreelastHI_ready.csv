@@ -1,0 +1,221 @@
+desig,Reference|Reference,vaccination|Vaccination Status,age.category|Age Category,Month|Month,Country,Severity,BRIS02.FD|Fold Difference (cell),BRIS02.FD|Fold Difference (egg)
+A/BANGKOK/400/2019,0,Unvaccinated,NA,SEP,Thailand,Hospitalised,<4,<4
+A/BANGKOK/426/2019,0,Unvaccinated,NA,OCT,Thailand,,<4,<4
+A/BRISBANE/02/2018eS,1,NA,20-64 years,,Australia,NA,NA,NA
+A/BRISBANE/1001/2020,0,NA,5-19 years,JAN,Australia,,>4,>4
+A/BRISBANE/1018/2018,1,NA,5-19 years,,Australia,NA,NA,<4
+A/BRISBANE/142/2019,0,NA,20-64 years,OCT,Australia,Hospitalised,<4,<4
+A/BRISBANE/144/2019,0,NA,5-19 years,OCT,Australia,Hospitalised,<4,<4
+A/BRISBANE/146/2019,0,NA,20-64 years,OCT,Australia,,<4,<4
+A/BRISBANE/147/2019,0,NA,20-64 years,OCT,Australia,,<4,<4
+A/BRISBANE/149/2019,0,NA,<5 years,OCT,Australia,,<4,<4
+A/BRISBANE/157/2018,1,NA,5-19 years,,Australia,NA,NA,<4
+A/BRISBANE/37/2017,1,NA,<5 years,,Australia,NA,NA,NA
+A/CALIFORNIA/07/2009e,1,NA,NA,,NA,NA,NA,NA
+A/CAMBODIA/D1120363/2019,0,NA,NA,OCT,Cambodia,,<4,<4
+A/CAMBODIA/D1216368/2019,0,NA,NA,NOV,Cambodia,,4,>4
+A/CAMBODIA/E0109364/2019,0,NA,NA,DEC,Cambodia,,<4,>4
+A/CAMBODIA/FSS40990/2019,0,NA,NA,DEC,Cambodia,,<4,<4
+A/CANBERRA/19A/2019,0,NA,20-64 years,DEC,Australia,Hospitalised,<4,<4
+A/CANBERRA/1A/2019,0,NA,65+ years,DEC,Australia,Hospitalised,NA,NA
+A/CANBERRA/337/2019eS,1,NA,20-64 years,,Australia,,<4,<4
+A/CANBERRA/394/2019,0,NA,<5 years,OCT,Australia,Hospitalised,NA,NA
+A/CANBERRA/397/2019,0,Vaccinated,65+ years,OCT,Australia,Hospitalised,<4,<4
+A/CANBERRA/3A/2019,0,NA,20-64 years,DEC,Australia,,NA,NA
+A/CANBERRA/40/2020,0,NA,20-64 years,JAN,Australia,Hospitalised,<4,<4
+A/CANBERRA/400/2019,0,NA,5-19 years,OCT,Australia,Hospitalised,<4,<4
+A/CANBERRA/411/2019,0,NA,65+ years,NOV,Australia,Hospitalised,<4,<4
+A/CANBERRA/415/2019,0,NA,5-19 years,NOV,Australia,Hospitalised,<4,<4
+A/CANBERRA/417/2019,0,NA,20-64 years,NOV,Australia,Hospitalised,<4,4
+A/CHANTHABURI/443/2019,0,Unvaccinated,NA,NOV,Thailand,,<4,<4
+A/CHIANGRAI/1391/2019,0,Unvaccinated,NA,DEC,Thailand,,<4,4
+A/CHRISTCHURCH/506/2018e,1,NA,<5 years,,New Zealand,NA,NA,<4
+A/DARWIN/102/2019,1,NA,<5 years,,Australia,,4,>4
+A/DARWIN/1024/2019,0,Vaccinated,20-64 years,NOV,Australia,,<4,4
+A/DARWIN/15/2020,0,NA,5-19 years,JAN,Australia,,<4,<4
+A/DARWIN/22/2020,0,NA,20-64 years,JAN,Australia,,<4,<4
+A/DARWIN/23/2020,0,NA,65+ years,JAN,Australia,,NA,NA
+A/DARWIN/25/2020,0,NA,20-64 years,JAN,Australia,,<4,<4
+A/DARWIN/26/2020,0,NA,5-19 years,JAN,Australia,,<4,<4
+A/DARWIN/28/2020,0,NA,20-64 years,JAN,Australia,,<4,<4
+A/DARWIN/6/2018e,1,NA,20-64 years,,Australia,NA,NA,<4
+A/DARWIN/6/2020,0,NA,20-64 years,JAN,Australia,,<4,<4
+A/DARWIN/733/2019,0,Unvaccinated,<5 years,OCT,Australia,Hospitalised,<4,<4
+A/DARWIN/738/2019,0,NA,65+ years,OCT,Australia,,<4,<4
+A/DARWIN/739/2019,0,Unvaccinated,<5 years,OCT,Australia,,<4,<4
+A/DARWIN/740/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/741/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/743/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/745/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/746/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/747/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/750/2019,0,NA,65+ years,NOV,Australia,,<4,<4
+A/DARWIN/753/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/758/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/759/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/760/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/761/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/762/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/DARWIN/764/2019,0,NA,<5 years,NOV,Australia,,<4,<4
+A/DARWIN/772/2019,0,NA,5-19 years,NOV,Australia,,<4,<4
+A/DARWIN/777/2019,0,NA,<5 years,DEC,Australia,,<4,<4
+A/DARWIN/778/2019,0,NA,<5 years,DEC,Australia,,<4,<4
+A/DARWIN/779/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/780/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/781/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/782/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/783/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/784/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/786/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/788/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/797/2019,0,NA,5-19 years,DEC,Australia,,<4,<4
+A/DARWIN/799/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/803/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/804/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/805/2019,0,NA,<5 years,DEC,Australia,,<4,<4
+A/DARWIN/830/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/DARWIN/831/2019,0,NA,20-64 years,DEC,Australia,,<4,4
+A/INDIANA/30/2019,1,NA,NA,,NA,NA,NA,NA
+A/LOPBURI/440/2019,0,Unvaccinated,NA,NOV,Thailand,Hospitalised,<4,<4
+A/LOPBURI/4448/2019,0,Unvaccinated,NA,DEC,Thailand,Hospitalised,<4,<4
+A/MALAYSIA/RP2253/2019,0,NA,NA,OCT,Malaysia,,<4,>4
+A/MALAYSIA/RP2254/2019,0,NA,NA,OCT,Malaysia,,<4,<4
+A/MALAYSIA/RP2255/2019,0,NA,NA,OCT,Malaysia,,<4,<4
+A/MALAYSIA/RP2260/2019,0,NA,NA,OCT,Malaysia,,<4,<4
+A/MALAYSIA/RP2261/2019,0,NA,NA,OCT,Malaysia,,<4,<4
+A/MALAYSIA/UM015/2019,0,NA,<5 years,OCT,Malaysia,Hospitalised,<4,4
+A/MEXICO/2549/2018,1,NA,NA,,NA,NA,NA,NA
+A/MICHIGAN/45/2015e,1,NA,NA,,NA,NA,NA,NA
+A/NAKHONPHANOM/487/2019,0,Unvaccinated,NA,DEC,Thailand,,<4,4
+A/NAKHONSITHAMMARAT/425/2019,0,Unvaccinated,NA,OCT,Thailand,,<4,<4
+A/NEWCASTLE/46/2019,1,NA,20-64 years,,Australia,Hospitalised,4,>4
+A/NONTHABURI/404/2019,0,Unvaccinated,NA,SEP,Thailand,,<4,<4
+A/PERTH/1154/2019,0,Unvaccinated,20-64 years,OCT,Australia,,<4,<4
+A/PERTH/1155/2019,0,Unvaccinated,20-64 years,DEC,Australia,,<4,<4
+A/PERTH/1156/2019,0,Unvaccinated,65+ years,DEC,Australia,,<4,<4
+A/PERTH/178/2019,0,NA,5-19 years,NOV,Australia,Hospitalised,<4,<4
+A/PERTH/180/2019,0,NA,5-19 years,DEC,Australia,Hospitalised,<4,<4
+A/PERTH/182/2019,0,NA,5-19 years,DEC,Australia,Hospitalised,<4,<4
+A/PERTH/193/2019,0,NA,65+ years,NOV,Australia,Hospitalised,<4,<4
+A/PHILIPPINES/21/2019,0,Unvaccinated,NA,SEP,Philippines,,<4,4
+A/PHILIPPINES/26/2019,0,Unvaccinated,NA,SEP,Philippines,,<4,4
+A/PHILIPPINES/27/2019,0,Unvaccinated,NA,SEP,Philippines,,<4,<4
+A/PHILIPPINES/31/2019,0,Unvaccinated,NA,OCT,Philippines,,<4,4
+A/PHILIPPINES/34/2019,0,Unvaccinated,NA,OCT,Philippines,,<4,<4
+A/PHILIPPINES/37/2019,0,Unvaccinated,NA,OCT,Philippines,,<4,4
+A/PHILIPPINES/39/2019,0,Unvaccinated,NA,OCT,Philippines,,<4,4
+A/PHILIPPINES/41/2019,0,Unvaccinated,NA,NOV,Philippines,,<4,<4
+A/PHILIPPINES/43/2019,0,Unvaccinated,NA,NOV,Philippines,,<4,<4
+A/RATCHABURI/435/2019,0,Vaccinated,NA,NOV,Thailand,Hospitalised,<4,<4
+A/SINGAPORE/CGH0010/2019,0,NA,20-64 years,OCT,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/CGH0012/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/EN0812/2019,0,NA,5-19 years,OCT,Singapore,,<4,<4
+A/SINGAPORE/EN0859/2019,0,NA,<5 years,NOV,Singapore,,<4,<4
+A/SINGAPORE/EN0916/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP1874/2019,0,NA,20-64 years,OCT,Singapore,,<4,<4
+A/SINGAPORE/GP1892/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP1937/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP1990/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2036/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2091/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2110/2019,0,Vaccinated,20-64 years,NOV,Singapore,,<4,<4
+A/SINGAPORE/GP2156/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2220/2019,0,NA,5-19 years,NOV,Singapore,,>4,>4
+A/SINGAPORE/GP2228/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2243/2019,0,NA,NA,NOV,Singapore,,<4,<4
+A/SINGAPORE/GP2277/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2295/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/GP2306/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2342/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2350/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2351/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2360/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2363/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2368/2019,0,NA,<5 years,OCT,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/KK2371/2019,0,NA,5-19 years,OCT,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/KK2452/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2502/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2565/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2654/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/KK2734/2019,0,NA,5-19 years,NOV,Singapore,Hospitalised,<4,4
+A/SINGAPORE/KK2795/2019,0,NA,5-19 years,DEC,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/MOH0156/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/MOH0157/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/MOH0185/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/MOH0186/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/MOH0191/2019,0,Vaccinated,NA,DEC,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/NTF0070/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/NTF0093/2019,0,NA,20-64 years,DEC,Singapore,Hospitalised,>4,>4
+A/SINGAPORE/SGH0522/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/SGH0529/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/SGH0541/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/SGH0549/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/SGH0586/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/SGH0593/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/SGH0638/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0791/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0796/2019,0,NA,NA,OCT,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/TT0805/2019,0,NA,NA,OCT,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/TT0849/2019,0,NA,NA,OCT,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/TT0858/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0865/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0886/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0901/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0909/2019,0,NA,NA,NOV,Singapore,Hospitalised,<4,<4
+A/SINGAPORE/TT0918/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0923/2019,0,NA,NA,,NA,NA,NA,NA
+A/SINGAPORE/TT0968/2019,0,NA,NA,,NA,NA,NA,NA
+A/SOUTHAUSTRALIA/1128/2019,0,Vaccinated,20-64 years,DEC,Australia,,<4,<4
+A/SOUTHAUSTRALIA/272/2017e,1,NA,65+ years,,Australia,NA,NA,NA
+A/SOUTHAUSTRALIA/3/2020,0,NA,<5 years,JAN,Australia,,<4,<4
+A/SOUTHAUSTRALIA/449/2019,0,NA,5-19 years,OCT,Australia,,<4,<4
+A/SOUTHAUSTRALIA/451/2019,0,NA,5-19 years,OCT,Australia,,<4,<4
+A/SOUTHAUSTRALIA/456/2019,0,NA,20-64 years,OCT,Australia,,<4,<4
+A/SOUTHAUSTRALIA/466/2019,0,NA,65+ years,NOV,Australia,,<4,<4
+A/SOUTHAUSTRALIA/471/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/SOUTHAUSTRALIA/473/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/SOUTHAUSTRALIA/475/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/SOUTHAUSTRALIA/476/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/SOUTHAUSTRALIA/477/2019,0,NA,65+ years,DEC,Australia,,<4,<4
+A/SWITZERLAND/3330/2017e,1,NA,NA,,NA,NA,NA,NA
+A/SYDNEY/1235/2019,0,Unvaccinated,20-64 years,NOV,Australia,,<4,<4
+A/SYDNEY/1237/2019,0,Vaccinated,5-19 years,NOV,Australia,,<4,<4
+A/SYDNEY/450/2019,0,Unvaccinated,20-64 years,OCT,Australia,Hospitalised,<4,<4
+A/SYDNEY/451/2019,0,Unvaccinated,20-64 years,OCT,Australia,ICU,<4,<4
+A/SYDNEY/454/2019,0,Unvaccinated,20-64 years,OCT,Australia,Hospitalised,<4,<4
+A/SYDNEY/460/2019,0,Unvaccinated,20-64 years,SEP,Australia,Hospitalised,>4,>4
+A/TOWNSVILLE/21/2018,1,NA,20-64 years,,Australia,NA,NA,<4
+A/VICTORIA/1/2020,0,NA,20-64 years,JAN,Australia,Hospitalised,>4,>4
+A/VICTORIA/10/2020,0,NA,<5 years,JAN,Australia,Hospitalised,<4,<4
+A/VICTORIA/12/2020,0,NA,<5 years,JAN,Australia,Hospitalised,>4,>4
+A/VICTORIA/13/2020,0,NA,20-64 years,JAN,Australia,,NA,NA
+A/VICTORIA/16/2020,0,NA,5-19 years,JAN,Australia,Hospitalised,NA,NA
+A/VICTORIA/244/2019,0,Unvaccinated,20-64 years,SEP,Australia,,<4,<4
+A/VICTORIA/2454/2019eS,1,NA,20-64 years,,Australia,,<4,<4
+A/VICTORIA/2455/2019,1,NA,20-64 years,,Australia,,<4,<4
+A/VICTORIA/255/2019,0,Unvaccinated,5-19 years,SEP,Australia,,<4,4
+A/VICTORIA/2568/2019,0,NA,20-64 years,NOV,Australia,Hospitalised,<4,<4
+A/VICTORIA/2569/2019,0,NA,5-19 years,NOV,Australia,Hospitalised,<4,<4
+A/VICTORIA/2570/2019,0,NA,20-64 years,NOV,Australia,,>4,>4
+A/VICTORIA/2572/2019,0,NA,20-64 years,NOV,Australia,,<4,<4
+A/VICTORIA/2586/2019,0,NA,20-64 years,DEC,Australia,,>4,>4
+A/VICTORIA/2587/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/VICTORIA/2588/2019,0,NA,20-64 years,DEC,Australia,Hospitalised,>4,>4
+A/VICTORIA/2589/2019,0,NA,20-64 years,DEC,Australia,Hospitalised,<4,<4
+A/VICTORIA/2596/2019,0,NA,20-64 years,DEC,Australia,Hospitalised,>4,>4
+A/VICTORIA/2603A/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/VICTORIA/2605/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/VICTORIA/2606/2019,0,NA,20-64 years,DEC,Australia,,<4,<4
+A/VICTORIA/2607A/2019,0,NA,20-64 years,DEC,Australia,Hospitalised,<4,<4
+A/VICTORIA/2608/2019,0,NA,65+ years,DEC,Australia,,>4,>4
+A/VICTORIA/2609/2019,0,NA,20-64 years,DEC,Australia,Hospitalised,<4,<4
+A/VICTORIA/2612/2019,0,NA,65+ years,DEC,Australia,Hospitalised,<4,<4
+A/VICTORIA/265/2019,0,Unvaccinated,5-19 years,OCT,Australia,,<4,<4
+A/VICTORIA/267/2019,0,Unvaccinated,65+ years,OCT,Australia,,<4,<4
+A/VICTORIA/2825/2019,0,NA,NA,OCT,Australia,,<4,<4
+A/VICTORIA/2838/2019,0,NA,5-19 years,OCT,Australia,Hospitalised,<4,<4
+A/VICTORIA/2841/2019,0,NA,<5 years,OCT,Australia,Hospitalised,<4,<4
+A/VICTORIA/2858/2019,0,NA,<5 years,NOV,Australia,Hospitalised,<4,<4
+A/VICTORIA/3/2020,0,NA,<5 years,JAN,Australia,Hospitalised,>4,>4
+A/VICTORIA/8/2020,0,NA,5-19 years,JAN,Australia,Hospitalised,<4,<4
+A/VICTORIA/9/2020,0,NA,<5 years,JAN,Australia,Hospitalised,<4,<4
